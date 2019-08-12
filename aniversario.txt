@@ -1,0 +1,10 @@
+====================== CONSULTA DE ANIVERSÁRIOS ======================
+
+
+ 1 - Dia
+
+ 2 - Mês
+
+ 3 - Semana
+
+ 4 - Voltar

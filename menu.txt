@@ -1,0 +1,17 @@
+=========================== MENU PRINCIPAL ===========================
+
+
+ 1 - Cadastro
+
+ 2 - Remover Contato
+
+ 3 - Alterar Contato
+
+ 4 - Consultar Contato
+
+ 5 - Consultar Aniversariantes
+
+ 0 - Salvar Dados e Sair
+
+
+                                                   Por Felipe Ribeiro

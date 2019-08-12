@@ -1,0 +1,8 @@
+=========================== MENU DE CONSULTA ===========================
+
+
+ 1 - Por Nome
+
+ 2 - Por Telefone
+
+ 3 - Voltar
